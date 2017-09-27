@@ -1,0 +1,1 @@
+hello this is the first text i hope my python script can work good python
